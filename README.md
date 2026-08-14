@@ -34,6 +34,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - The official DeepSeek Harness runtime. Run it with `npx @deepseek-ai/dsh web`.
 
 ## Tool Plugins
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill pack (85 SKILL.md) as a DeepSeek Harness Cordis plugin: reverse engineering, authorized pentesting and security-research skill router.
 
 ### Search & Web
 
