@@ -75,6 +75,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - Cross-session long-term memory plus background self-evolution: five-track memory, git-branch awareness, and skill evolution — pure plugin, no core changes.
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context compression (Active Context Pruning) — the model decides when and what to compress.
 - [dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) - Audit exactly what every request carries: token cost of the AGENTS.md chain, skill catalog, and tool schemas, with duplicate/conflict detection.
+- [dsh-context](https://github.com/bowenliang123/dsh-context) - Context insight panel: see what the model's context window is made of and how it evolves — composition vs. window size, per-request history, compression/injection events, and per-message token stats.
 
 ## Orchestration & Agents
 
