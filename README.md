@@ -46,6 +46,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, and UI restoration.
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) - `view_image` tool bridging any OpenAI-compatible VLM (works with free tiers).
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) - Built-in keyless vision chain plus pixel-level tools (Q&A, grounding) for text-only agents.
+- [vision-exp-tile](https://github.com/Nicholas023/vision-exp-tile) - Large-image recognition for deepseek-v4-flash-vision-exp: lossless 800×800 tile recognition (smart/pipeline/full), local OCR with preprocessing & handwriting routing, optional multi-vendor GPU (DirectML/CUDA/OpenVINO) with auto CPU fallback.
 
 ### Browser & Computer Use
 
