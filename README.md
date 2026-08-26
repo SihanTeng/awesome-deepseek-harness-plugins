@@ -113,6 +113,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing inside DSH.
 - [dsh4vscode](https://github.com/DoggyHU/dsh4vscode) - DSH chat windows inside VS Code with OpenCode-style independent sessions and model auto-routing.
 
+- [dsh-pr-checks](https://github.com/pauloapoloni/dsh-pr-checks) - GitHub Actions check status and progress for your open PRs, grouped by workspace/project, in the sidebar footer.
 ### Desktop Clients & Distros
 
 - [deeptide](https://github.com/paean-ai/deeptide) - Built by DeepSeek, for DeepSeek — a Swift-native macOS coding agent.
