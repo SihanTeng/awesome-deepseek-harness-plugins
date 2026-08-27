@@ -68,6 +68,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [flameox](https://github.com/morluto/flameox) - Runtime evidence for agents: trace, profile, and burn down hotspots in application, native, and GPU code.
 - [mcp-for-stata](https://github.com/SepineTam/mcp-for-stata) - MCP server integrating Stata into your agent workflow.
+- [DSH-SessionManager](https://github.com/BISTU-guheihei/DSH-SessionManager) - 会话管理工具：回收站删除（可恢复）/归档/统计详情/缓存清理，深色鲸鱼娘主题 GUI + 命令行，Windows/Linux 预编译.
 
 ## Memory & Context
 
