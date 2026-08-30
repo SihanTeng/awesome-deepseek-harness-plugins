@@ -59,6 +59,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-at-file](https://github.com/omdsh-dev/dsh-at-file) - Codex-style `@file` mentions: search workspace files in the composer and attach them to prompts.
 - [dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) - Zero-dependency toolkit: time, encoding, JSON, calculator, CSV, regex, Markdown, diff, stat, and schema tools.
 - [dsh-custom-tool](https://github.com/omdsh-dev/dsh-custom-tool) - Create and manage sandboxed JavaScript tools with a Monaco editor and model-driven tool lifecycle.
+- [dsh-lsp-actions](https://github.com/PerryLink/dsh-lsp-actions) - LSP action surface for DSH: diagnostics, formatting, completion, code actions, symbols, signature help, inlay hints and rename, all backed by real language servers.
 - [dsh-plugin (PicGo)](https://github.com/PicGo/dsh-plugin) - Upload images and files to your image host from DeepSeek Harness, powered by PicGo.
 
 ### Misc Tools
