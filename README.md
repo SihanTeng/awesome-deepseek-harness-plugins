@@ -82,6 +82,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh_workflow](https://github.com/icetomoyo/dsh_workflow) - Brings Claude Code's UltraCode mode to DSH: one-off multi-agent scheduling upgraded into a generatable, saveable, governable, observable, resumable workflow layer.
 - [allinluna](https://github.com/zenx0x/allinluna) - Resource-aware multi-agent orchestration for Codex and DeepSeek Harness.
 - [dsh-automation](https://github.com/titanwings/dsh-automation) - Run coding tasks on a schedule in fresh agent sessions, with user- or agent-managed cron tasks.
+- [dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) - Durable background child agents on the official subagent seam: start from any session, watch progress in the Web UI sidebar, message and interrupt any time, with per-child tool scoping, persona and delegation-depth caps.
 - [mstar-harness](https://github.com/btspoony/mstar-harness) - Skill-driven harness/loop-engineering workflow agent plugin.
 - [dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - Cross-instance message and event handoff between DSH instances.
 - [Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - General-purpose skill that automatically routes local skills and orchestrates harness workflows.
