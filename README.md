@@ -66,6 +66,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [leantoken](https://github.com/morluto/leantoken) - Code intelligence for agents: find the code that matters and keep your context window lean.
 - [jacobian](https://github.com/morluto/jacobian) - Pure mathematics for agents: search examples/counterexamples, compute exactly, independently check reasoning.
 - [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [dsh-mask](https://github.com/PerryLink/dsh-mask) - PII masking for DeepSeek Harness — anonymizes names, phones, emails, ids, and keys before requests and restores them at the display layer, keeping plaintext out of session logs.
 - [flameox](https://github.com/morluto/flameox) - Runtime evidence for agents: trace, profile, and burn down hotspots in application, native, and GPU code.
 - [mcp-for-stata](https://github.com/SepineTam/mcp-for-stata) - MCP server integrating Stata into your agent workflow.
 
