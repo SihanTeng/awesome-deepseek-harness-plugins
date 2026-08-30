@@ -109,6 +109,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) - Branch-based message editing, reroll, retry, and a version timeline.
 - [dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) - Rewind conversation and workspace state, powered by a persistent change ledger.
 - [dsh-share](https://github.com/hellodigua/dsh-share) - One-click conversation sharing.
+- [dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) - Pin sessions and workspaces to the top of the Web sidebar with per-pin row colors, a header toggle and a pinned panel; 0.4.0 adds a navigation organizer — pin groups (boards), tags and saved filter views, session health summaries, and /goto.
 - [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - Import history from Claude Code, Codex, and other agent tools, and continue the conversation in DSH.
 - [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing inside DSH.
 - [dsh4vscode](https://github.com/DoggyHU/dsh4vscode) - DSH chat windows inside VS Code with OpenCode-style independent sessions and model auto-routing.
