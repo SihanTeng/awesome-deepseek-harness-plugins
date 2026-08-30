@@ -135,6 +135,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 - [tokenbank](https://github.com/wink-run/tokenbank) - Local LLM gateway between your agents and every provider: know where tokens go, spend less.
 - [forkprobe](https://github.com/Jayden-X-L/forkprobe) - Compare multiple skills on the same task and pick the winner.
+- [dsh-fast](https://github.com/PerryLink/dsh-fast) - Read-only performance diagnostics for DeepSeek Harness: reports session load and restore timing, context-injection volume, and LLM cache hit rate, off the model hot path.
 
 ## Integrations & Apps
 
