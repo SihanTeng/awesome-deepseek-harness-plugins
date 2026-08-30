@@ -64,6 +64,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 ### Misc Tools
 
 - [leantoken](https://github.com/morluto/leantoken) - Code intelligence for agents: find the code that matters and keep your context window lean.
+- [dsh-claude-move](https://github.com/PerryLink/dsh-claude-move) - Four-source migration wizard: move Claude Code, Codex, OpenCode and Hermes sessions, memories, skills, instructions and slash commands into DSH (/move wizard with approval gate and idempotent move.json, resumable sessions).
 - [jacobian](https://github.com/morluto/jacobian) - Pure mathematics for agents: search examples/counterexamples, compute exactly, independently check reasoning.
 - [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [flameox](https://github.com/morluto/flameox) - Runtime evidence for agents: trace, profile, and burn down hotspots in application, native, and GPU code.
