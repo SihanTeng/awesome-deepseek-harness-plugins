@@ -108,6 +108,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-annotation](https://github.com/omdsh-dev/dsh-annotation) - Select text in the web UI to annotate it; annotations ship with your next message.
 - [dsh-message-edit](https://github.com/Moeblack/dsh-message-edit) - Branch-based message editing, reroll, retry, and a version timeline.
 - [dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) - Rewind conversation and workspace state, powered by a persistent change ledger.
+- [dsh-composer-history](https://github.com/PerryLink/dsh-composer-history) - Terminal-style input history for the web composer: edge-first arrow-key recall with exact draft/caret restore, browser-local persisted history, Ctrl+R reverse search, and sliding-context awareness; 0.5.0 adds a smart input layer — cross-session snippets (/save, /load), prompt templates with variables, reuse insights, and compaction-summary highlighting.
 - [dsh-share](https://github.com/hellodigua/dsh-share) - One-click conversation sharing.
 - [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - Import history from Claude Code, Codex, and other agent tools, and continue the conversation in DSH.
 - [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing inside DSH.
