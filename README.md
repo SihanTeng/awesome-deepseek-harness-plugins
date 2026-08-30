@@ -151,6 +151,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) - Plugin ecosystem infrastructure: a thin browser console for managing official repository plugins, plus a `make-dsh-plugin` skill for guided plugin development.
 - [dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) - Discover and install plugins from within DSH itself.
+- [dsh-score](https://github.com/PerryLink/dsh-score) - Multi-dimensional quality scoring for DeepSeek Harness plugins that scores a repo or npm package across install success, maintenance activity, documentation completeness, security scan, and protocol compliance using real CLI evidence, and produces a JSON or Markdown leaderboard report.
 
 ## Learning Resources
 
