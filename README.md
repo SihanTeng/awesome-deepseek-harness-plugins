@@ -66,6 +66,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [leantoken](https://github.com/morluto/leantoken) - Code intelligence for agents: find the code that matters and keep your context window lean.
 - [jacobian](https://github.com/morluto/jacobian) - Pure mathematics for agents: search examples/counterexamples, compute exactly, independently check reasoning.
 - [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) - Declarative Claude Code-style permission rules for DSH: ordered allow/deny/ask matching on tools, paths, and network targets.
 - [flameox](https://github.com/morluto/flameox) - Runtime evidence for agents: trace, profile, and burn down hotspots in application, native, and GPU code.
 - [mcp-for-stata](https://github.com/SepineTam/mcp-for-stata) - MCP server integrating Stata into your agent workflow.
 
