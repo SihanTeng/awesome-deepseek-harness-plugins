@@ -53,6 +53,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [browser-bridge](https://github.com/hanelalo/browser-bridge) - Let your agent drive your real browser window, just like you would.
 - [dsh-computer-use](https://github.com/Anionex/dsh-computer-use) - Accessibility-first macOS computer-use plugin with scoped permissions and safe input.
 - [open-record-replay](https://github.com/humblebanana/open-record-replay) - macOS record-and-replay workflow recorder for computer-use agents: captures mouse, keyboard, and UI events.
+- [dsh-click](https://github.com/PerryLink/dsh-click) - Cross-platform native desktop control for DeepSeek Harness (Windows first): screen_shot, screen_read, click, type, scroll, and key actions with approval gating and process identity verification.
 
 ### Files & Editing
 
