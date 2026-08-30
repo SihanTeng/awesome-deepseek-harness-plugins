@@ -135,6 +135,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 - [tokenbank](https://github.com/wink-run/tokenbank) - Local LLM gateway between your agents and every provider: know where tokens go, spend less.
 - [forkprobe](https://github.com/Jayden-X-L/forkprobe) - Compare multiple skills on the same task and pick the winner.
+- [dsh-observe](https://github.com/PerryLink/dsh-observe) - Exports the session event stream to OpenTelemetry OTLP and Langfuse as sanitized, buffered traces and metrics, off by default.
 
 ## Integrations & Apps
 
