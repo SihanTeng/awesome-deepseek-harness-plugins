@@ -72,6 +72,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 ## Memory & Context
 
 - [mnemon](https://github.com/mnemon-dev/mnemon) - LLM-supervised persistent memory for AI agents: graph-based recall, cross-session knowledge, single binary.
+- [dsh-library](https://github.com/PerryLink/dsh-library) - Turns local markdown and text documents into a queryable knowledge base with hybrid semantic and keyword search, citation verification, and source injection.
 - [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - Cross-session long-term memory plus background self-evolution: five-track memory, git-branch awareness, and skill evolution — pure plugin, no core changes.
 - [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context compression (Active Context Pruning) — the model decides when and what to compress.
 - [dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) - Audit exactly what every request carries: token cost of the AGENTS.md chain, skill catalog, and tool schemas, with duplicate/conflict detection.
