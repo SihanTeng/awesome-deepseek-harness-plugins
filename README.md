@@ -64,6 +64,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 ### Misc Tools
 
 - [leantoken](https://github.com/morluto/leantoken) - Code intelligence for agents: find the code that matters and keep your context window lean.
+- [dsh-defend](https://github.com/PerryLink/dsh-defend) - Detects prompt-injection, jailbreak, and secret-leak patterns on the agent/pre-step, tools/pre-execute, and tools/post-execute seams with allow/ask/block tiers, sanitized defend/detection audit events, a defend_report tool, and a destructive-delete command guard.
 - [jacobian](https://github.com/morluto/jacobian) - Pure mathematics for agents: search examples/counterexamples, compute exactly, independently check reasoning.
 - [rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [flameox](https://github.com/morluto/flameox) - Runtime evidence for agents: trace, profile, and burn down hotspots in application, native, and GPU code.
