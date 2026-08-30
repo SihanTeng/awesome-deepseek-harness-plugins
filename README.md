@@ -84,6 +84,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-automation](https://github.com/titanwings/dsh-automation) - Run coding tasks on a schedule in fresh agent sessions, with user- or agent-managed cron tasks.
 - [mstar-harness](https://github.com/btspoony/mstar-harness) - Skill-driven harness/loop-engineering workflow agent plugin.
 - [dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) - Cross-instance message and event handoff between DSH instances.
+- [dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) - Claude Code /rewind for DeepSeek Harness: git-first workspace snapshots before every mutating tool execution, turn-boundary session forks, and a one-shot /rewind command that restores files and forks the session back to a checkpoint.
 - [Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills) - General-purpose skill that automatically routes local skills and orchestrates harness workflows.
 - [helloagents](https://github.com/hellowind777/helloagents) - An autonomous agent companion that keeps working until the implementation is done and verified.
 - [oh-my-dsh](https://github.com/LaplaceYoung/oh-my-dsh) - A 700+ plugin ecosystem for DSH, registered purely through extension seams without touching the agent loop.
