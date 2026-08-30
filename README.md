@@ -150,6 +150,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 ## Plugin Development & Utilities
 
 - [plugin-registry](https://github.com/vlln/plugin-registry) - Plugin ecosystem infrastructure: a thin browser console for managing official repository plugins, plus a `make-dsh-plugin` skill for guided plugin development.
+- [dsh-test-drive](https://github.com/PerryLink/dsh-test-drive) - Runs isolated install-and-smoke test drives for DSH plugins in throwaway profiles, returning structured pass/fail records and batch matrices without touching your real profile.
 - [dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins) - Discover and install plugins from within DSH itself.
 
 ## Learning Resources
