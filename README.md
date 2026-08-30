@@ -134,6 +134,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 ## Observability & Cost
 
 - [tokenbank](https://github.com/wink-run/tokenbank) - Local LLM gateway between your agents and every provider: know where tokens go, spend less.
+- [dsh-budget](https://github.com/PerryLink/dsh-budget) - Cost governance for DeepSeek Harness: budgets, carbon, and latency in one panel, with per-model, per-session, and per-day token metering, threshold alerts, and over-limit policies.
 - [forkprobe](https://github.com/Jayden-X-L/forkprobe) - Compare multiple skills on the same task and pick the winner.
 
 ## Integrations & Apps
