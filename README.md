@@ -46,6 +46,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, and UI restoration.
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) - `view_image` tool bridging any OpenAI-compatible VLM (works with free tiers).
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) - Built-in keyless vision chain plus pixel-level tools (Q&A, grounding) for text-only agents.
+- [dsh-draw](https://github.com/PerryLink/dsh-draw) - Unified static-image generation routing for DeepSeek Harness: one image_generate tool across OpenAI Images, Zhipu CogView, and compatible endpoints, with health-aware fallback and durable results.
 
 ### Browser & Computer Use
 
