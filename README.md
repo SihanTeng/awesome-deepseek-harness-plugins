@@ -112,6 +112,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) - Import history from Claude Code, Codex, and other agent tools, and continue the conversation in DSH.
 - [dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil) - OpenPencil design preview and editing inside DSH.
 - [dsh4vscode](https://github.com/DoggyHU/dsh4vscode) - DSH chat windows inside VS Code with OpenCode-style independent sessions and model auto-routing.
+- [dsh-message-navigator](https://github.com/miaomiao636/dsh-message-navigator) - Codex-style message navigator for the DSH Web UI: a tick per user message along the conversation edge, hover/click to preview and smooth-jump, with full history auto-loading.
 
 ### Desktop Clients & Distros
 
