@@ -1,12 +1,12 @@
-# Awesome DeepSeek Harness Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome DeepSeek Harness Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated collection of plugins, tools, and integrations for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) — the open-source agent harness by DeepSeek AI where **everything is a plugin**.
+> A curated collection of plugins, tools, and integrations for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) 鈥?the open-source agent harness by DeepSeek AI where **everything is a plugin**.
 
-DeepSeek Harness is built on an architecture where every capability — tools, UI, memory, orchestration — is a [Cordis](https://github.com/cordiverse/cordis) plugin. This list tracks the best community plugins and ecosystem projects.
+DeepSeek Harness is built on an architecture where every capability 鈥?tools, UI, memory, orchestration 鈥?is a [Cordis](https://github.com/cordiverse/cordis) plugin. This list tracks the best community plugins and ecosystem projects.
 
 **Find more:** add the [`dsh-plugin`](https://github.com/topics/dsh-plugin) topic to your repo for discoverability.
 
-**Website:** browse the searchable catalog at **[awesome-deepseek-harness-plugins.pages.dev](https://awesome-deepseek-harness-plugins.pages.dev/)** (source in [`website/`](website/), built with Astro + Bun, hosted on Cloudflare Pages — redeploy with `cd website && bun run deploy`).
+**Website:** browse the searchable catalog at **[awesome-deepseek-harness-plugins.pages.dev](https://awesome-deepseek-harness-plugins.pages.dev/)** (source in [`website/`](website/), built with Astro + Bun, hosted on Cloudflare Pages 鈥?redeploy with `cd website && bun run deploy`).
 
 ## Contents
 
@@ -42,7 +42,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 ### Vision
 
-- [modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness — paste an image, get analysis; a vision bridge for text-only coding agents.
+- [modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness 鈥?paste an image, get analysis; a vision bridge for text-only coding agents.
 - [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) - Vision toolkit for text-only models: intent-aware image Q&A, long-screenshot OCR, and UI restoration.
 - [dsh-vision](https://github.com/william-jin-cmu/dsh-vision) - `view_image` tool bridging any OpenAI-compatible VLM (works with free tiers).
 - [dsh-vision-router](https://github.com/ysr666/dsh-vision-router) - Built-in keyless vision chain plus pixel-level tools (Q&A, grounding) for text-only agents.
@@ -50,7 +50,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 ### Browser & Computer Use
 
-- [dsh-browser](https://github.com/Lum1104/dsh-browser) - Chrome sidebar extension that lets DSH operate your browser directly — no vision capabilities required.
+- [dsh-browser](https://github.com/Lum1104/dsh-browser) - Chrome sidebar extension that lets DSH operate your browser directly 鈥?no vision capabilities required.
 - [browser-bridge](https://github.com/hanelalo/browser-bridge) - Let your agent drive your real browser window, just like you would.
 - [dsh-computer-use](https://github.com/Anionex/dsh-computer-use) - Accessibility-first macOS computer-use plugin with scoped permissions and safe input.
 - [open-record-replay](https://github.com/humblebanana/open-record-replay) - macOS record-and-replay workflow recorder for computer-use agents: captures mouse, keyboard, and UI events.
@@ -91,8 +91,8 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 ## Memory & Context
 
 - [mnemon](https://github.com/mnemon-dev/mnemon) - LLM-supervised persistent memory for AI agents: graph-based recall, cross-session knowledge, single binary.
-- [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - Cross-session long-term memory plus background self-evolution: five-track memory, git-branch awareness, and skill evolution — pure plugin, no core changes.
-- [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context compression (Active Context Pruning) — the model decides when and what to compress.
+- [dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - Cross-session long-term memory plus background self-evolution: five-track memory, git-branch awareness, and skill evolution 鈥?pure plugin, no core changes.
+- [billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh) - Model-driven context compression (Active Context Pruning) 鈥?the model decides when and what to compress.
 - [dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) - Audit exactly what every request carries: token cost of the AGENTS.md chain, skill catalog, and tool schemas, with duplicate/conflict detection.
 - [dsh-library](https://github.com/PerryLink/dsh-library) - Turns local markdown and text documents into a queryable knowledge base with hybrid semantic and keyword search, citation verification, and source injection.
 - [dsh-memento](https://github.com/PerryLink/dsh-memento) - Bounded, layered, approval-gated cross-session memory for DSH, with a SQLite provider and frozen snapshot injection.
@@ -122,7 +122,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 ### Web UI Enhancements
 
 - [dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) - Plugin and skin collection for the DSH Web UI: task board, git graph, right-side panel, and remote mobile UI.
-- [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - A complete sidebar workbench: file rendering/editing, terminal, Git, subagents — with third-party tab registration.
+- [DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - A complete sidebar workbench: file rendering/editing, terminal, Git, subagents 鈥?with third-party tab registration.
 - [dsh-side-panel](https://github.com/ccq1/dsh-side-panel) - Side panel integrating a file browser, terminal, and Git review.
 - [dsh-genui](https://github.com/omdsh-dev/dsh-genui) - GenUI for DSH: interactive UI components rendered inline in assistant replies.
 - [dsh-visualize](https://github.com/Nagi-ovo/dsh-visualize) - Generative UI plugin: the model draws interactive HTML cards directly into the conversation, with streaming preview.
@@ -143,7 +143,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 ### Desktop Clients & Distros
 
-- [deeptide](https://github.com/paean-ai/deeptide) - Built by DeepSeek, for DeepSeek — a Swift-native macOS coding agent.
+- [deeptide](https://github.com/paean-ai/deeptide) - Built by DeepSeek, for DeepSeek 鈥?a Swift-native macOS coding agent.
 - [oh-dsh](https://github.com/hust-open-atom-club/oh-dsh) - One-stop community distribution: unified TUI, desktop, and Web UI experiences with layered installation.
 - [Deepseek-Harness-Desktop](https://github.com/ChisaAlter/Deepseek-Harness-Desktop) - Electron desktop shell for the DSH web UI with themes and background customization.
 - [DeepSeekHarnessDesktop](https://github.com/wess09/DeepSeekHarnessDesktop) - Desktop packaging of DeepSeek Harness.
@@ -158,7 +158,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) - Hand-drawn pixel whale that lives in the session title bar, animates while thinking, and spouts water on completion.
 - [ui-status-label](https://github.com/alingalingling/ui-status-label) - Customize the whale's "deep diving" thinking status label to anything you like.
 - [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) - Parody plugin: 2005-era Chinese-site-style sidebar ads, in-feed ads, and corner pop-ups (all fictional).
-
+- [dsh-persona-switcher](https://github.com/destr-z/dsh-persona-switcher) - Lightweight per-session persona templates (catgirl etc.): manage in Settings, pick from the composer, instant apply; single plugin, zero runtime dependencies, no core changes.
 ## Observability & Cost
 
 - [tokenbank](https://github.com/wink-run/tokenbank) - Local LLM gateway between your agents and every provider: know where tokens go, spend less.
@@ -173,7 +173,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [iPolloWork](https://github.com/Devin-AXIS/iPolloWork) - AI workspace with a self-evolving agent runtime that integrates DeepSeek Harness for subagent delegation.
 - [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - Local-first, self-evolving cross-platform AI content discovery agent ([DSH plugin](https://github.com/whiteguo233/dsh-openbiliclaw) with a dedicated fourth-column UI and 22 agent tools).
 - [dsh-work](https://github.com/vibeinging/dsh-work) - Local-first AI workbench combining agent sessions, project files, data analysis, web research, and MCP.
-- [MuseAI](https://github.com/yejiming/MuseAI) - Create AI characters and enter story worlds — chat, adventure, and roleplay (ships as a DSH plugin).
+- [MuseAI](https://github.com/yejiming/MuseAI) - Create AI characters and enter story worlds 鈥?chat, adventure, and roleplay (ships as a DSH plugin).
 - [notes](https://github.com/zhaoolee/notes) - Open-source Smartisan-style notes: self-hostable, skill- and DSH-plugin-enabled, with one-click image export.
 - [coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp) - Give any AI agent the ability to code (MCP).
 - [sandbase-harness](https://github.com/sandbaseai/sandbase-harness) - Open-source CMA-compatible agent runtime with MCP tools, sandboxed sessions, audit, and replay.
@@ -196,7 +196,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) - Radar-style index that automatically scans for new dsh plugin candidates.
 - [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - Curated list of DSH plugins (CN/EN).
 - [awesome-deepseek-harness (0xsline)](https://github.com/0xsline/awesome-deepseek-harness) - Curated plugins, tools, and infrastructure from dsh-external/hub and the public topic.
-- [awesome-dsh-plugin (bruc3van)](https://github.com/bruc3van/awesome-dsh-plugin) - Find the right DSH plugin in 30 seconds — organized by problem, not just repo.
+- [awesome-dsh-plugin (bruc3van)](https://github.com/bruc3van/awesome-dsh-plugin) - Find the right DSH plugin in 30 seconds 鈥?organized by problem, not just repo.
 - [awesome-DSH-plugin (Alex-Yanggg)](https://github.com/Alex-Yanggg/awesome-DSH-plugin) - Plugins, extensions, tools, and development resources for DSH.
 - [awesome-deepseek-harness (libukai)](https://github.com/libukai/awesome-deepseek-harness) - The ultimate guide: quickstart, resources, and selected plugins.
 - [awesome-deepseek-harness (Dominic789654)](https://github.com/Dominic789654/awesome-deepseek-harness) - Plugins, skills, MCP servers, orchestrators, and UIs for DSH.
@@ -217,4 +217,4 @@ Guidelines:
 
 ## License
 
-[CC0 1.0 Universal](LICENSE) — public domain dedication.
+[CC0 1.0 Universal](LICENSE) 鈥?public domain dedication.
