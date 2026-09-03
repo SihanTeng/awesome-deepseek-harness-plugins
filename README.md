@@ -127,6 +127,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-win32](https://github.com/sjh9714/dsh-win32) - Fix and diagnose DeepSeek Harness on native Windows — official PowerShell and workspace-write support without WSL.
 - [dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) - A scientific-writing and document-integrity guard for AI-assisted research — style and journal-fit checks.
 - [deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) - An ACP (Agent Client Protocol) server implementation for DeepSeek Harness — dsh-acp.
+- [dsh-talk](https://github.com/PerryLink/dsh-talk) - Voice-first session loop for DSH: composer microphone with browser/local speech-to-text (Web Speech, FunASR, whisper.cpp), a speak tool for text-to-speech replies, and event announcements with mute.
 
 ## Memory & Context
 
@@ -148,6 +149,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) - The memory that dreams — a self-evolving memory for DeepSeek Harness with heat-memory consolidation and semantic search.
 - [dsh-deepread](https://github.com/xiehuan123/dsh-deepread) - Evidence-first reading for AI agents — turns articles, books, and PDFs into traceable knowledge maps.
 - [dsh-memoir](https://github.com/Qinling-Melon-Farmers/dsh-memoir) - Local-first cross-session project memory for DeepSeek Harness with cache-aware BM25 hot-memory retrieval.
+- [dsh-personal-directive](https://github.com/PerryLink/dsh-personal-directive) - Personal directives for the agent: system-prompt injection, tools, and a top-bar runtime toggle with replaceable neutral placeholder instructions.
 
 ## Orchestration & Agents
 
