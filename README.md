@@ -127,6 +127,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-win32](https://github.com/sjh9714/dsh-win32) - Fix and diagnose DeepSeek Harness on native Windows — official PowerShell and workspace-write support without WSL.
 - [dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) - A scientific-writing and document-integrity guard for AI-assisted research — style and journal-fit checks.
 - [deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) - An ACP (Agent Client Protocol) server implementation for DeepSeek Harness — dsh-acp.
+- [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) - TickTick (Dida365) task bridge: a session-header task panel and curated agent tools over the official TickTick MCP endpoint.
 
 ## Memory & Context
 
@@ -312,6 +313,8 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-web-lan-access](https://github.com/AcidGr/dsh-web-lan-access) - A DeepSeek Harness web plugin for accessing dsh web over the local network.
 - [dsh-feishu](https://github.com/PGZXB/dsh-feishu) - A panel-driven Feishu control console for DeepSeek Harness — every slash command as interactive cards.
 - [dsh-trading](https://github.com/maddogfinance/dsh-trading) - A trading-research workbench for DeepSeek Harness: typed market-data seam and technical analysis.
+- [dsh-reach](https://github.com/PerryLink/dsh-reach) - Pushes DSH approval and question cards to IM channels (WeChat first) and answers them from chat, with a session console, per-channel security, and an open push service.
+- [dsh-wechat](https://github.com/PerryLink/dsh-wechat) - Bridges WeChat private messages to DSH with two-way text, image, file, and media transfer.
 
 ## Plugin Development & Utilities
 
@@ -325,6 +328,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - Manage DeepSeek Harness plugins from the web UI — view, and start/stop them in real time.
 - [dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - DeepSeek Harness backup and restore plugin — export, import, migrate, and sync config/skills over WebDAV.
 - [dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) - A DSH plugin health-check tool that scans plugin repos for manifest/protocol and patch-format issues.
+- [dsh-cert-mcp](https://github.com/PerryLink/dsh-cert-mcp) - MCP server exposing the DSH plugin certification registry: get a certification, list certified plugins, and read the certification spec.
 
 ## Learning Resources
 
