@@ -59,6 +59,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-plugin-mineru](https://github.com/HuanLinOTO/dsh-plugin-mineru) - Exposes MinerU document-parsing tools to the model — converts PDF/images/DOCX/PPTX/XLSX to structured output.
 - [dsh-imagegen](https://github.com/dickpy/dsh-imagegen) - Text-to-image and image-to-image generation directly in the DSH web GUI.
 - [picturereader](https://github.com/jing-hy/picturereader) - A DSH plugin that reads images as pixel-to-text for text-only models — image_scan/image_ocr.
+- [dsh-ollama-vision-bridge](https://github.com/nvbb/dsh-ollama-vision-bridge) - Vision bridge for text-only models (DSH ≥ 0.1.2-rc.1): attach an image and a local Ollama VL model (qwen3-vl:8b) describes it into the same model step — no cloud, VRAM released when idle.
 
 ### Browser & Computer Use
 
