@@ -278,6 +278,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-save-money](https://github.com/zhu168/dsh-save-money) - A save-money plugin for DSH — define your own pause/resume triggers to control spend.
 - [dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) - DeepTrace — a DSH plugin that turns session event logs into an agent report in numbers.
 - [dsh-plugin (loongsuite)](https://github.com/loongsuite/dsh-plugin) - OpenTelemetry tracing for DeepSeek Harness: turns each agent turn into a GFM-tracked trace.
+- [dsh-peak-pricing-warning](https://github.com/Imnotndesh/dsh-peak-pricing-warning) - Inline readout beside the model selector showing DeepSeek peak/off-peak pricing status, a countdown to the next rate change, and the estimated session cost at published list rates.
 
 ## Integrations & Apps
 
