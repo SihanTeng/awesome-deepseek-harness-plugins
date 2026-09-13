@@ -262,4 +262,5 @@ export const PLUGINS: Plugin[] = [
   { name: "dsh-skin-market", url: "https://github.com/kingOfSoySauce/dsh-skin-market", desc: "A DeepSeek Harness skin market with 200+ skins and a community rating system.", cat: "Related Lists", chip: "Lists", sub: null, stars: 116 },
   { name: "dsh-suite", url: "https://github.com/whyihaveyou/dsh-suite", desc: "A living DeepSeek Harness plugin directory — refreshed hourly and compatibility-tested.", cat: "Related Lists", chip: "Lists", sub: null, stars: 50 },
   { name: "dsh-plugin-workshop", url: "https://github.com/yyyyukari/dsh-plugin-workshop", desc: "A Steam Workshop-style plugin browser for the DSH web UI.", cat: "Related Lists", chip: "Lists", sub: null, stars: 25 },
+  { name: "dsh-plugin-upgrade-015", url: "https://github.com/PerryLink/dsh-plugin-upgrade-015", desc: "Merged, version-locked plugin upgrade skill for DeepSeek Harness (0.1.3-alpha.1 → 0.1.5-rc.1 as two closed legs): an evidence-bound version card plus a zero-dependency 20-seam scanner (bundle skill + npx CLI).", cat: "Plugin Development & Utilities", chip: "Dev Utilities", sub: null, stars: 0 },
 ];
