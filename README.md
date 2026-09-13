@@ -205,6 +205,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-output-styles](https://github.com/PerryLink/dsh-output-styles) - Runtime-switchable model output styles with Claude Code outputStyles parity, plus the output.render.* presentation protocol: a /style command, per-session persistence, systemPrompt injection, six built-in styles, a web picker, and a renderer registry with per-session/per-tool rules and /export.
 - [dsh-pr-checks](https://github.com/pauloapoloni/dsh-pr-checks) - GitHub Actions check status and progress for your open PRs, grouped by workspace/project, in the sidebar footer.
 - [dsh-session-pin](https://github.com/PerryLink/dsh-session-pin) - Pin sessions and workspaces to the top of the Web sidebar with per-pin row colors, a header toggle and a pinned panel; 0.4.0 adds a navigation organizer — pin groups (boards), tags and saved filter views, session health summaries, and /goto.
+- [dsh-talk](https://github.com/PerryLink/dsh-talk) - Voice-first session loop for DeepSeek Harness: a composer microphone button with browser/local speech-to-text (Web Speech, FunASR, whisper.cpp), a speak tool for text-to-speech replies (browser, edge-tts, piper), event announcements with mute, and speak-to-interrupt.
 
 - [working-activity](https://github.com/ccch1mneyyy/working-activity) - A lively working-line statusbar extension for the pi CLI and DSH.
 - [dsh-synapse](https://github.com/liangmianya/dsh-synapse) - A visual, non-linear conversation workspace plugin for DeepSeek Harness — a canvas-style agent workflow.

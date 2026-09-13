@@ -262,4 +262,5 @@ export const PLUGINS: Plugin[] = [
   { name: "dsh-skin-market", url: "https://github.com/kingOfSoySauce/dsh-skin-market", desc: "A DeepSeek Harness skin market with 200+ skins and a community rating system.", cat: "Related Lists", chip: "Lists", sub: null, stars: 116 },
   { name: "dsh-suite", url: "https://github.com/whyihaveyou/dsh-suite", desc: "A living DeepSeek Harness plugin directory — refreshed hourly and compatibility-tested.", cat: "Related Lists", chip: "Lists", sub: null, stars: 50 },
   { name: "dsh-plugin-workshop", url: "https://github.com/yyyyukari/dsh-plugin-workshop", desc: "A Steam Workshop-style plugin browser for the DSH web UI.", cat: "Related Lists", chip: "Lists", sub: null, stars: 25 },
+  { name: "dsh-talk", url: "https://github.com/PerryLink/dsh-talk", desc: "Voice-first session loop for DeepSeek Harness: a composer microphone button with browser/local speech-to-text (Web Speech, FunASR, whisper.cpp), a speak tool for text-to-speech replies (browser, edge-tts, piper), event announcements with mute, and speak-to-interrupt.", cat: "UI & Interfaces", chip: "UI", sub: "Web UI Enhancements", stars: 10 },
 ];
