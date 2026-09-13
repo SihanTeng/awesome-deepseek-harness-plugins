@@ -306,6 +306,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-passwords](https://github.com/slywalker2006/dsh-passwords) - A server-grade gateway that turns DeepSeek Harness into a multi-tenant platform with per-user auth.
 - [dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) - Connect DeepSeek Harness to a Lark/Feishu bot with QR-code auth, streaming cards, and self-healing.
 - [dsh-lark-link](https://github.com/amlyczz/dsh-lark-link) - A high-reliability Feishu/Lark bridge for DeepSeek Harness with QR-code one-click auth.
+- [dsh-reach](https://github.com/PerryLink/dsh-reach) - Multi-channel approval and question bridge for DSH: pushes approval and question cards to IM channels (WeChat, Telegram, Feishu) and answers them from chat, with per-channel security, a session console, and an open push service.
 - [dsh-Remote](https://github.com/Blank-not-black/dsh-Remote) - A pocket DSH console — sessions, approvals, questions, and file transfer from your phone.
 - [dsh-full-remote](https://github.com/JUANWANG-BUAA/dsh-full-remote) - An auditable, token-gated DeepSeek Harness remote gateway: mobile QR access and per-device auth.
 - [dsh-quant](https://github.com/pengpengyi92/dsh-quant) - An everything-plugin AI-native quantitative OS for DeepSeek Harness — backtesting, risk management, and factor investing.
