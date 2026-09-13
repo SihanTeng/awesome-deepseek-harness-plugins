@@ -262,4 +262,5 @@ export const PLUGINS: Plugin[] = [
   { name: "dsh-skin-market", url: "https://github.com/kingOfSoySauce/dsh-skin-market", desc: "A DeepSeek Harness skin market with 200+ skins and a community rating system.", cat: "Related Lists", chip: "Lists", sub: null, stars: 116 },
   { name: "dsh-suite", url: "https://github.com/whyihaveyou/dsh-suite", desc: "A living DeepSeek Harness plugin directory — refreshed hourly and compatibility-tested.", cat: "Related Lists", chip: "Lists", sub: null, stars: 50 },
   { name: "dsh-plugin-workshop", url: "https://github.com/yyyyukari/dsh-plugin-workshop", desc: "A Steam Workshop-style plugin browser for the DSH web UI.", cat: "Related Lists", chip: "Lists", sub: null, stars: 25 },
+  { name: "dsh-ticktick", url: "https://github.com/PerryLink/dsh-ticktick", desc: "TickTick (Dida365) task bridge: a session-header task panel with list filter, quick add, complete, delete, due dates and drag reorder, eleven curated agent tools, and a typed Remote service over the official TickTick MCP endpoint.", cat: "Integrations & Apps", chip: "Integrations", sub: null, stars: 0 },
 ];
