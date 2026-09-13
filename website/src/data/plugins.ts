@@ -262,4 +262,5 @@ export const PLUGINS: Plugin[] = [
   { name: "dsh-skin-market", url: "https://github.com/kingOfSoySauce/dsh-skin-market", desc: "A DeepSeek Harness skin market with 200+ skins and a community rating system.", cat: "Related Lists", chip: "Lists", sub: null, stars: 116 },
   { name: "dsh-suite", url: "https://github.com/whyihaveyou/dsh-suite", desc: "A living DeepSeek Harness plugin directory — refreshed hourly and compatibility-tested.", cat: "Related Lists", chip: "Lists", sub: null, stars: 50 },
   { name: "dsh-plugin-workshop", url: "https://github.com/yyyyukari/dsh-plugin-workshop", desc: "A Steam Workshop-style plugin browser for the DSH web UI.", cat: "Related Lists", chip: "Lists", sub: null, stars: 25 },
+  { name: "dsh-team-rooms", url: "https://github.com/PerryLink/dsh-team-rooms", desc: "Persistent, cross-session multi-agent team rooms for DeepSeek Harness: members, a message bus, a shared task board, approval-gated handoffs, and a shared timeline that survive restarts.", cat: "Orchestration & Agents", chip: "Agents", sub: null, stars: 0 },
 ];

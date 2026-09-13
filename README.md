@@ -163,6 +163,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) - GitHub Action that runs DeepSeek Harness for PR review, CI diagnosis, trusted fixes, and issue-to-PR implementation.
 - [dsh-background-agents](https://github.com/PerryLink/dsh-background-agents) - Durable background child agents on the official subagent seam: start from any session, watch progress in the Web UI sidebar, message and interrupt any time, with per-child tool scoping, persona and delegation-depth caps.
 - [dsh-checkpoint-rewind](https://github.com/PerryLink/dsh-checkpoint-rewind) - Claude Code /rewind for DeepSeek Harness: git-first workspace snapshots before every mutating tool execution, turn-boundary session forks, and a one-shot /rewind command that restores files and forks the session back to a checkpoint.
+- [dsh-team-rooms](https://github.com/PerryLink/dsh-team-rooms) - Persistent, cross-session multi-agent team rooms for DeepSeek Harness: members, a message bus, a shared task board, approval-gated handoffs, and a shared timeline that survive restarts.
 
 - [ouroboros](https://github.com/Q00/ouroboros) - Agent OS that makes the agent smarter on its own: interview-gated staged evaluation and a budgeted evolution loop across 13 runtimes including Claude Code and Codex.
 - [Aegis](https://github.com/GanyuanRan/Aegis) - Makes AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.
