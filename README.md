@@ -281,6 +281,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 ## Integrations & Apps
 
+- [Busabase](https://github.com/busabase/busabase-dsh-plugin) - Connects DeepSeek Harness to searchable knowledge and structured data, with human-reviewed changes and conversation cards.
 - [open-design](https://github.com/nexu-io/open-design) - Open-source, local-first design app that turns your coding agent into a design engine: prototypes, landing pages, slides, images, and video.
 - [iPolloWork](https://github.com/Devin-AXIS/iPolloWork) - AI workspace with a self-evolving agent runtime that integrates DeepSeek Harness for subagent delegation.
 - [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - Local-first, self-evolving cross-platform AI content discovery agent ([DSH plugin](https://github.com/whiteguo233/dsh-openbiliclaw) with a dedicated fourth-column UI and 22 agent tools).
