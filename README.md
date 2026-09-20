@@ -325,6 +325,8 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - Manage DeepSeek Harness plugins from the web UI — view, and start/stop them in real time.
 - [dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - DeepSeek Harness backup and restore plugin — export, import, migrate, and sync config/skills over WebDAV.
 - [dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) - A DSH plugin health-check tool that scans plugin repos for manifest/protocol and patch-format issues.
+- [dsh-plugin-doctor](https://github.com/PerryLink/dsh-plugin-doctor) - Zero-dependency plugin detector: package-structure gates, cordis contract scans, headless sandbox smoke, and listing checks.
+
 
 ## Learning Resources
 
