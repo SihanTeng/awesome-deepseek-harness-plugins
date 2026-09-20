@@ -312,6 +312,8 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-web-lan-access](https://github.com/AcidGr/dsh-web-lan-access) - A DeepSeek Harness web plugin for accessing dsh web over the local network.
 - [dsh-feishu](https://github.com/PGZXB/dsh-feishu) - A panel-driven Feishu control console for DeepSeek Harness — every slash command as interactive cards.
 - [dsh-trading](https://github.com/maddogfinance/dsh-trading) - A trading-research workbench for DeepSeek Harness: typed market-data seam and technical analysis.
+- [dsh-ticktick](https://github.com/PerryLink/dsh-ticktick) - TickTick task bridge: a session-header task panel plus eleven agent tools over the official TickTick MCP endpoint.
+
 
 ## Plugin Development & Utilities
 
