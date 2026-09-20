@@ -127,6 +127,8 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-win32](https://github.com/sjh9714/dsh-win32) - Fix and diagnose DeepSeek Harness on native Windows — official PowerShell and workspace-write support without WSL.
 - [dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) - A scientific-writing and document-integrity guard for AI-assisted research — style and journal-fit checks.
 - [deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) - An ACP (Agent Client Protocol) server implementation for DeepSeek Harness — dsh-acp.
+- [dsh-talk](https://github.com/PerryLink/dsh-talk) - Voice-first session loop: speech-to-text from a composer mic button and text-to-speech replies, with mute and speak-to-interrupt.
+
 
 ## Memory & Context
 
