@@ -148,6 +148,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) - The memory that dreams — a self-evolving memory for DeepSeek Harness with heat-memory consolidation and semantic search.
 - [dsh-deepread](https://github.com/xiehuan123/dsh-deepread) - Evidence-first reading for AI agents — turns articles, books, and PDFs into traceable knowledge maps.
 - [dsh-memoir](https://github.com/Qinling-Melon-Farmers/dsh-memoir) - Local-first cross-session project memory for DeepSeek Harness with cache-aware BM25 hot-memory retrieval.
+- [ai-context-doctor](https://github.com/WJDdidi-1/ai-context-doctor) - Grades what a repository or a past session actually read, warns before it floods the context window, and writes the `.aiignore` rules that stop the worst of it; ships a sidebar panel that follows the current conversation.
 
 ## Orchestration & Agents
 
@@ -325,6 +326,8 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-web-plugin-manager](https://github.com/LX2000WASD/dsh-web-plugin-manager) - Manage DeepSeek Harness plugins from the web UI — view, and start/stop them in real time.
 - [dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) - DeepSeek Harness backup and restore plugin — export, import, migrate, and sync config/skills over WebDAV.
 - [dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) - A DSH plugin health-check tool that scans plugin repos for manifest/protocol and patch-format issues.
+- [dsh-plugin-toolkit](https://github.com/WJDdidi-1/dsh-plugin-toolkit) - Preflight for plugin authors: packs the plugin the way npm would, installs the tarball, imports the root export the loader mounts and mounts the panel, so a plugin the host would drop fails before release; also `init`, `dev` and `release`.
+- [dsh-plugin-example](https://github.com/WJDdidi-1/dsh-plugin-example) - A ~70-line plugin to copy from: one sidebar tab, a host half, a bundle manifest and a passing preflight.
 
 ## Learning Resources
 
