@@ -73,6 +73,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-ios](https://github.com/ZSeven-W/dsh-ios) - A live iOS Simulator — and a USB-connected iPhone — plugin for DeepSeek Harness for UI automation and mobile testing.
 - [dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit) - Tabbit Browser plugins for DeepSeek Harness — browser automation that drives a real browser via Playwright.
 - [dsh-computer-use (ZRui-C)](https://github.com/ZRui-C/dsh-computer-use) - Text-first browser and background macOS control for DeepSeek Harness — accessibility-first automation.
+- [BugGPS](https://github.com/lijiaqi-AI-Product-Manager/dsh-bug-gps) - Records browser bugs, freezes expected results, and verifies fixes against a fresh original-code control. DSH 0.2.1-rc.5 headless/web.
 
 ### Files & Editing
 
