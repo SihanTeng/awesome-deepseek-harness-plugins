@@ -174,7 +174,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [sofagent](https://github.com/KongFangXun/sofagent) - An audit-first governance harness for AI coding agents — 24 rules, HMAC chains, and prompt-injection guards.
 - [dsh-taskboard (cloader)](https://github.com/cloader/dsh-taskboard) - A kanban task-board plugin for DeepSeek Harness.
 - [Vibe-Mathematics](https://github.com/ChongCyrus/Vibe-Mathematics) - A multi-agent mathematics problem-solving and formal-verification framework.
-- [AgentCompare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) — Compare two running Vite implementations in DSH conversations, choose blind, and review adoption against current project edits.
+- [AgentCompare](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare) — Compare 2–4 answers, files or live pages in DSH Desktop and Web, choose blind or openly, and review adoption while keeping picks and reasons in the main conversation. [![Stars](https://img.shields.io/github/stars/lijiaqi-AI-Product-Manager/dsh-agent-compare?style=flat&label=stars)](https://github.com/lijiaqi-AI-Product-Manager/dsh-agent-compare/stargazers) [![npm downloads/month](https://img.shields.io/npm/dm/dsh-agent-compare?style=flat&label=npm%20downloads%2Fmonth)](https://www.npmjs.com/package/dsh-agent-compare)
 
 ## UI & Interfaces
 
