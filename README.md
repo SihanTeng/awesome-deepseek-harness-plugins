@@ -151,6 +151,9 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 ## Orchestration & Agents
 
+- [dsh-codex-handoff](https://github.com/lightcoloror/dsh-codex-handoff) - Windows workspace-scoped task handoffs between Codex and DeepSeek Harness; requires pairing and Python 3.11+.
+
+
 - [dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) - AgentTeams plugin for DeepSeek Harness.
 - [dsh_workflow](https://github.com/icetomoyo/dsh_workflow) - Brings Claude Code's UltraCode mode to DSH: one-off multi-agent scheduling upgraded into a generatable, saveable, governable, observable, resumable workflow layer.
 - [allinluna](https://github.com/zenx0x/allinluna) - Resource-aware multi-agent orchestration for Codex and DeepSeek Harness.
