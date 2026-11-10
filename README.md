@@ -281,6 +281,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 ## Integrations & Apps
 
+- [dsh-lanya](https://github.com/bamboosir1109/dsh-lanya) - A Windows QQ character integration kit with NapCatQQ/SnowLuma, Bilibili interactions, local GPT-SoVITS voice, revisable memory and a local dashboard; companion services require separate setup (development preview).
 - [open-design](https://github.com/nexu-io/open-design) - Open-source, local-first design app that turns your coding agent into a design engine: prototypes, landing pages, slides, images, and video.
 - [iPolloWork](https://github.com/Devin-AXIS/iPolloWork) - AI workspace with a self-evolving agent runtime that integrates DeepSeek Harness for subagent delegation.
 - [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - Local-first, self-evolving cross-platform AI content discovery agent ([DSH plugin](https://github.com/whiteguo233/dsh-openbiliclaw) with a dedicated fourth-column UI and 22 agent tools).
