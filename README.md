@@ -347,6 +347,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 
 - [dsh-web](https://github.com/zhu1090093659/dsh-web) - Web plugin aggregation ecosystem for DeepSeek Harness, distributed through the Creative Workshop.
 - [dsh-market](https://github.com/dsh-market/dsh-market) - The plugin marketplace inside DeepSeek Harness — browse, search, and one-click install plugins.
+- [DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store) - Native DeepSeek Harness marketplace for searching, installing, and managing community plugins.
 - [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) - Open-source DSH plugin-ecosystem radar that auto-discovers 15,900+ candidates and produces a plugin catalog artifact.
 - [awesome-dsh-plugin (Anil-matcha)](https://github.com/Anil-matcha/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) — the plugin ecosystem.
 - [Awesome-DeepSeek-Harness-Plugins (Zhiyuan-Fan)](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins) - Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, and verified references — English and Chinese.
