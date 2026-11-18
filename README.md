@@ -34,6 +34,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - The official DeepSeek Harness runtime. Run it with `npx @deepseek-ai/dsh web`.
 
 ## Tool Plugins
+- [wwewtech/numes-deepseek-harness](https://github.com/wwewtech/numes-deepseek-harness) — Free Numes models in DeepSeek Harness: zero-dependency local proxy with a hard `$0` route (`:free` + `max_price` guards), never-give-up retries (5s to 5m), free-model auto-discovery, and paid-model protection.
 
 ### Search & Web
 
